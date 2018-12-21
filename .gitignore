@@ -42,3 +42,7 @@ sysinfo.txt
 
 # Crashlytics generated file
 Assets/StreamingAssets/crashlytics-build.properties
+
+# Rider
+Assets/Plugins/Editor.meta
+Assets/Plugins/Editor/
